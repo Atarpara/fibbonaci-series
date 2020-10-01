@@ -1,4 +1,5 @@
-    #include <iostream>  
+    #include <iostrea.m>  
+    #include <stdio.h>
     using namespace std;  
     void main() {  
       int n1=0,n2=1,n3,i,number;    
